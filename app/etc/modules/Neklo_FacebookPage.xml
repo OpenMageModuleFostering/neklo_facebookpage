@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Neklo_FacebookPage>
+            <active>true</active>
+            <codePool>community</codePool>
+            <depends>
+                <Neklo_Core/>
+            </depends>
+            <extension_name>Facebook Page Plugin</extension_name>
+            <url></url>
+            <encoding></encoding>
+        </Neklo_FacebookPage>
+    </modules>
+</config>
